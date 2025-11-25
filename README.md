@@ -7,7 +7,7 @@
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="ResumeAI Banner" width="100%" />
+  <img src="public/logo.png" alt="ResumeAI Banner" width="100%" />
 </div>
 
 ## 🚀 About The Project
