@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI - Smart Resume Analyzer",
+  "description": "Upload your resume to get instant AI-powered feedback, scoring, and keyword optimization suggestions using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
