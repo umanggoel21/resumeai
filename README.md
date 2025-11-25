@@ -47,15 +47,6 @@ resumeai/
 └── ...
 ```
 
-## 🛣️ Roadmap
-
-- [x] Core Resume Analysis
-- [x] Job Matching Engine
-- [ ] Multi-language Support
-- [ ] LinkedIn Profile Import
-- [ ] PDF Export with Custom Templates
-- [ ] Dark/Light Mode Toggle
-
 ## 🏁 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
