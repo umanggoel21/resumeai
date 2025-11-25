@@ -6,9 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-3178C6)
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 
-<div align="center">
-  <img src="public/logo.png" alt="ResumeAI Banner" width="100%" />
-</div>
+
 
 ## 🚀 About The Project
 
