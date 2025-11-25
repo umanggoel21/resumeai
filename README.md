@@ -34,6 +34,28 @@ This project is built using a modern, robust technology stack:
 *   **[Lucide React](https://lucide.dev/)** - Beautiful & consistent icons.
 *   **[Recharts](https://recharts.org/)** - Redefined chart library built with React and D3.
 
+## 📂 Project Structure
+
+```
+resumeai/
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── services/        # API services (Gemini AI integration)
+│   ├── App.tsx          # Main application component
+│   └── main.tsx         # Entry point
+├── public/              # Static assets
+└── ...
+```
+
+## 🛣️ Roadmap
+
+- [x] Core Resume Analysis
+- [x] Job Matching Engine
+- [ ] Multi-language Support
+- [ ] LinkedIn Profile Import
+- [ ] PDF Export with Custom Templates
+- [ ] Dark/Light Mode Toggle
+
 ## 🏁 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
@@ -88,6 +110,14 @@ Contributions are what make the open source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+## 🙏 Acknowledgments
+
+*   [Google Gemini API](https://ai.google.dev/) for the powerful AI capabilities.
+*   [Shields.io](https://shields.io/) for the badges.
+*   [React Icons](https://react-icons.github.io/react-icons/) for the icons.
+
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/resumeai](https://github.com/yourusername/resumeai)
+Umang Goel - work.umanggoel@gmail.com
+
+Project Link: [https://github.com/umanggoel21/resumeai](https://github.com/umanggoel21/resumeai)
